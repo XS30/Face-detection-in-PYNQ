@@ -1,3 +1,3 @@
 # Face-detection-in-PYNQ
 This project will use ZYNQ 7020 to build the PYNQ framework, and build face detection algorithm, and finally use USB camera to detect face.
-PS：Face detection using Python call opencv library construction
+PS：Face detection using Python call OpenCV library construction
