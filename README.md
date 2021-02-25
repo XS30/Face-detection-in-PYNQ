@@ -21,7 +21,7 @@ PS：Face detection algorithm using Python call OpenCV library construction.
 5.Configure FPGA IP address and test network.  
 6.Use the 'lsusb' command to view the camera.  
 7.Run jupyter notebook.    
-8.Upload "Face detection project.ipynb" and compile it.
+8.Upload "Face detection project.ipynb" "Xml data" and compile it.
 
 
 ## Result
