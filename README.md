@@ -1,4 +1,4 @@
-![python]（https://github.com/Xilinx/PYNQ/workflows/Python/badge.svg）
+![python](https://github.com/Xilinx/PYNQ/workflows/Python/badge.svg)
 # Face-detection-in-PYNQ
 This project will use ZYNQ 7020 to build the PYNQ framework, and build face detection algorithm, and finally use USB camera to detect face.
 
