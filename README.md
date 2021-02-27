@@ -3,15 +3,15 @@ This project will use ZYNQ 7020 to build the PYNQ framework, and build face dete
 
 PS：Face detection algorithm using Python call OpenCV library construction.
 
-## Device
--	ZYNQ 7020  
+## Hardware
+-	ZYNQ 7020 or PYNQ Z2 
 -	TF Card 8G C10  
 -	USB Camera  
 -	Network cable  
 -	Power Supply  
 
 
-## Preparation work
+## Instructions
 1.Make TF Card Image boot card. [References](https://blog.csdn.net/quhai1340/article/details/102799896)  
 2.Set the FPGA to TF card to boot.  
 3.Use serial port to connect FPGA.  
@@ -23,4 +23,6 @@ PS：Face detection algorithm using Python call OpenCV library construction.
 
 
 ## Result
-![python](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/Output%20image/img1.png?raw=true)
+If the face is captured by the camera, the program will recognize the key points of eyes and mouth and mark them with rectangular box, and then recognize the face.  
+
+![Recognition results](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/Output%20image/img1.png?raw=true)
