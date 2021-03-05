@@ -1,5 +1,5 @@
 ## Face-detection-in-PYNQ
-This project will use ZYNQ 7020 to build the PYNQ framework, and build face detection algorithm, and finally use USB camera to detect face.
+This project will use ZYNQ 7020 to build the PYNQ framework, and build face detection algorithm, and finally use USB camera to detect face.In addition,Using Vivado to generate GPIO bit file.Turn on LED when the face is detected.
 
 PS：Face detection algorithm using Python call OpenCV library construction.
 
