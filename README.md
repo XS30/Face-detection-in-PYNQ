@@ -9,6 +9,7 @@ PS：Face detection algorithm using Python call OpenCV library construction.
 -	USB Camera  
 -	Network cable  
 -	Power Supply  
+-	LED（3.3v）
 
 
 ## Instructions
@@ -23,6 +24,9 @@ PS：Face detection algorithm using Python call OpenCV library construction.
 
 
 ## Result
-If the face is captured by the camera, the program will recognize the key points of eyes and mark them with rectangular box, and then recognize the face.  
+If the face is captured by the camera, the program will recognize the key points of eyes and mark them with rectangular box, and then recognize the face. When a face is detected, the LED turns on.
+
+
+
 
 ![Recognition results](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/Output%20image/img1.png?raw=true)
