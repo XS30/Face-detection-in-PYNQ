@@ -1,7 +1,7 @@
 ## Face-detection-in-PYNQ
-This project will use ZYNQ 7020 to build the PYNQ framework, and build face detection algorithm, and finally use USB camera to detect face.In addition,Use Vivado HLS to build Sobel algorithm, then call AXI streams data flow interface to package and generate image convolution IP kernel, then use DMA module to generate IP read memory, complete convolution operation (Sobel) by hardware, and then display the processed picture.  
+This project is aim to face detection and Sobel processing image then display it. The main procedures are as follows. Firstly,we will use ZYNQ 7020 to build the PYNQ framework, and then  a face detection algorithm will be built and with the help of  USB camera to detect face. In addition, we will apply Vivado HLS to build Sobel algorithm, and put AXI streams data flow interface into package so as to generate image convolution IP kernel, then turn to DMA module to generate IP read memory, completing convolution operation (Sobel) by hardware, and finally  we can make the processed picture.  
 
-PS：Face detection algorithm using Python call OpenCV library construction.
+PS：Face detection algorithm are wrriten by Python call OpenCV library construction.
 
 ![bd img](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/image/bd.png?raw=true)
 
