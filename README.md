@@ -13,7 +13,7 @@ PS：Face detection algorithm using Python call OpenCV library construction.
 -	Power Supply  
 
 ## Soft
-Vivado HLS 2018.3
+Vivado HLS 2018.3  
 Jupyter Notebook
 
 ## Instructions
