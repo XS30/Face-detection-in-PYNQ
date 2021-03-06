@@ -24,7 +24,7 @@ Jupyter Notebook
 5.Configure FPGA IP address and test network.  
 6.Use the 'lsusb' command to view the camera.  
 7.Run jupyter notebook.    
-8.Upload "Face detection project.ipynb" "Xml data" and compile it.
+8.Upload "Face detection project.ipynb(2)"、"xml file"、"HLS Sobel bit" and compile it.
 
 ## Procedure flow  
 Using camera to detect face in real time. The program will automatically record the current image when a face is detected. After adjusting the resolution and color channel, the original image will be saved locally. The image with face annotation will be displayed in notebook.Then code load Sobel bit file process the original image and display the processed image.  
