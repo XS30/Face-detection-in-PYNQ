@@ -28,7 +28,6 @@ If the face is captured by the camera, the program will recognize the key points
 
 
 
-
-![Original img](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/image/Original%20img.jpg?raw=true)
 ![Tag img](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/image/Tag%20img.png?raw=true)
+![Original img](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/image/Original%20img.jpg?raw=true)
 ![Sobel img](https://github.com/XS30/Face-detection-in-PYNQ/blob/main/image/Sobel%20img.png?raw=true)
