@@ -14,6 +14,7 @@ PS：Face detection algorithm are wrriten by Python call OpenCV library construc
 
 ## Soft
 Vivado HLS 2018.3  
+Vivado 2018.3    
 Jupyter Notebook
 
 ## Instructions
