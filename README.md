@@ -32,7 +32,7 @@ Jupyter Notebook
 7.Run jupyter notebook.    
 8.Upload "Face detection project.ipynb(2)"、"xml file"、"HLS Sobel bit" and compile it.
 
-## Procedure flow  
+## Procedure flow & Result
 Using camera to detect face in real time. The program will automatically record the current image when a face is detected. After adjusting the resolution and color channel, the original image will be saved locally. The image with face annotation will be displayed in notebook.Then code load Sobel bit file process the original image and display the processed image.  
 
 ARM核将实时分析摄像头所拍摄的图像，当拍摄的图像出现人脸并被成功识别后，程序将对人脸进行标注显示（下图1），并将未带标注框的原始图像（下图2）进行颜色与尺寸调整后保存到本地。然后调用HLS_Sobel模块对图像进行卷积处理并保存（下图3）。
